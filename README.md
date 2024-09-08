@@ -5,3 +5,4 @@ line2
 line3
 topic-A
 topic-B
+topic-C
